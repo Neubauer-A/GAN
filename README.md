@@ -8,6 +8,7 @@ and, like in the original CAN, a style ambiguity loss is used.
 So far, this has mostly resulted in interesting textures without any clear representations of objects.
 
 Some examples from recent experiments:
+
 ![alt text](https://github.com/Neubauer-A/GAN/blob/main/CAN/images/e.png?raw=true)
 ![alt text](https://github.com/Neubauer-A/GAN/blob/main/CAN/images/102.png?raw=true)
 ![alt text](https://github.com/Neubauer-A/GAN/blob/main/CAN/images/can0.png?raw=true) 
